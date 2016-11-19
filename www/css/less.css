@@ -1,0 +1,14 @@
+@media screen and (min-width: 960px){
+    .logo{
+        float: left;
+    }  
+    .hdr{width: 35%;}
+    .Mobile-hd{
+        display: none;
+    }
+}
+
+@media screen and (max-width:760px){
+    #hd{display: none;}
+}
+

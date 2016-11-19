@@ -1,0 +1,52 @@
+﻿.wp{
+    width: 1020px;
+    margin:0 auto;
+}
+img{
+    max-width:100%;
+}
+.logo{
+    line-height: 80px;
+}
+.logo img{
+    vertical-align: middle;
+}
+.hdr{
+    float: right;
+    text-align: right;
+}
+.hdr .top{
+    line-height: 24px;
+}
+.logo-txt{
+    margin-left: 30px;
+    vertical-align: bottom;
+}
+.soBox{
+    position: relative;
+    margin-top: 20px;
+    border:2px solid red;
+}
+.so-inp{
+    width: 100%;
+    padding: 0 10px;
+    font-size: 12px;
+    box-sizing:border-box;
+}
+.soBox input{
+    height: 35px;
+    line-height: 35px \9;
+    border:none;
+    background:none;
+    outline: none;
+}
+.so-btn{
+    background: url(../images/.jpg) no-repeat left top;
+    width: 40px;
+    position: absolute;
+    right: 0;top: 0;
+}
+.searchBox{
+    float: left;
+}
+.search-btn{width: 40px;height: 50px;display: block;background: url(../images/so.png) no-repeat center center;}
